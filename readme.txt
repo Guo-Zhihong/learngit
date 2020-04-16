@@ -3,3 +3,4 @@ Git is free software.
 Git has a mutable index called stage.
 Git has a mutable index called stage.
 git tracks changes.
+creat a new branch is fast
