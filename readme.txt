@@ -7,3 +7,4 @@ creat a new branch is fast
 Creating a new branch is quick AND simple
 this is a first change.
 this is a second change.
+--no --ff
